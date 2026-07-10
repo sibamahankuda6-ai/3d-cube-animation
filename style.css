@@ -18,7 +18,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 9px;
+    gap: 10px;
 }
 
 .title {
@@ -73,7 +73,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    width: 180px;
+    width: 179px;
     height: 200px;
     border: 1px solid white;
     opacity: 0.3;
